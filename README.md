@@ -1,6 +1,6 @@
 # SkyViewNet
 
-Aerial Landscape Classification using **Convolutional Neural Networks (CNN)** and **MobileNetV2**.
+Aerial Landscape Classification using a ** custom Convolutional Neural Networks (CNN)** and **MobileNetV2**.
 
 ## Project Structure
 - `CNN_SkyView.ipynb`: Main Colab notebook  
